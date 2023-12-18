@@ -1,0 +1,21 @@
+<html>
+
+<head>
+</head>
+
+<body style="background-color: darkslategray">
+    <h3 style="color: yellowgreen;text-align: center;">
+        Anwar Hamida
+    </h3>
+    <img src="https://avatars.githubusercontent.com/u/94965021?v=4"
+        style="border-radius: 50% 0%;align-items: center;text-align: center;height: 250px;width: 250px;align-content: center;padding: 20px;margin: 50px;">
+
+    <div style="background-color: bisque; border-radius: 25%;">
+
+        <h5 style="padding: 15px;text-align: center;">
+            .Net Developer
+        </h5>
+    </div>
+</body>
+
+</html>
